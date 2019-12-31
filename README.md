@@ -12,13 +12,16 @@
 2. 目录命名方式及规则, 举个栗子，小明（前端）小黑（后端）结对开发Project1，那么仓库中的目录应该为 project1_xiaoming_xiaohei
   ```
   |--\.
-  |--\project1_xiaoming_xiaohei
+  |--\.git\
+  |--\project1_xiaoming_xiaohei\
+  |--\project1_xiaoming_xiaohei\参与人总结.md
   |--\project1_xiaoming_xiaohei\web_xiaoming
   |--\project1_xiaoming_xiaohei\server_xiaohei
   ```
-3. 项目周期37天，请安排好时间
+3. 项目周期37天，请安排好时间。截止提交时间 2020年2月7日。
 4. 如果提前完成可以提交提交pull request
 5. 可以选择自己熟悉的技术栈
+6. 参与人总结中要求有 参与同学的自我介绍，项目技术栈介绍，所选项目，作品的自评。
 
 
 
